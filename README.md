@@ -29,7 +29,7 @@ The **AgriTech AI Analyzer** is a comprehensive Flask-based web application desi
 ![Image](https://github.com/user-attachments/assets/281f1403-92e6-4626-a6bb-ec06d53e27d8)  ![Image](https://github.com/user-attachments/assets/c2b106a9-334b-478e-8171-c36ed00224e0)
 ![Image](https://github.com/user-attachments/assets/c2b106a9-334b-478e-8171-c36ed00224e0)  ![Image](https://github.com/user-attachments/assets/14d0a0a2-2644-4464-ba5e-040c5802654d)
 ![Image](https://github.com/user-attachments/assets/a15d9a6c-6bfb-4f9d-967a-5c28827a48bb)  ![Image](https://github.com/user-attachments/assets/0b0fd7ad-048c-4e15-a06a-329e0902db26)
-![Image](https://github.com/user-attachments/assets/7fc93371-590b-48f7-a340-8e7561cc3ecd)  ![Image](https://github.com/user-attachments/assets/645c0720-ce67-4239-b8bb-7158187381c2)
+![Image](https://github.com/user-attachments/assets/7fc93371-590b-48f7-a340-8e7561cc3ecd) 
 ![Image](https://github.com/user-attachments/assets/123ec977-9d69-49f6-b24d-38ab97a803f4)  ![Image](https://github.com/user-attachments/assets/fef01b42-96d9-4156-bdda-3426e3842588)
 
 *Comprehensive results with visualizations and recommendations*
