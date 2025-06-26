@@ -22,7 +22,7 @@ The **AgriTech AI Analyzer** is a comprehensive Flask-based web application desi
 ## 📸 Screenshots
 
 ### Web Interface
-![Web Interface](docs/images/web_interface.png)
+![Image](https://github.com/user-attachments/assets/3121beee-cc29-4f05-8cdc-a1419ca83a5c)
 *User-friendly interface for image uploads and analysis selection*
 
 ### Analysis Results
@@ -101,7 +101,7 @@ agricultural_ai_system/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/agritech-ai-analyzer.git
+git clone https://github.com/Krishna737Sharma/agritech-ai-analyzer.git
 cd agritech-ai-analyzer
 ```
 
@@ -503,14 +503,13 @@ copies or substantial portions of the Software.
 
 ### Getting Help
 
-- **📧 Email**: support@agritech-ai.com
-- **📱 Phone**: +1 (555) 123-4567
+- **📧 Email**: krishnakumarsharma0737.24@kgpian.iitkgp.ac.in , sm24mtech11003@iith.ac.in
 - **💬 Discord**: [Join our community](https://discord.gg/agritech-ai)
 - **📖 Documentation**: [Full documentation](https://docs.agritech-ai.com)
 
 ### Reporting Issues
 
-Please report bugs and issues on our [GitHub Issues](https://github.com/your-username/agritech-ai-analyzer/issues) page.
+Please report bugs and issues on our [GitHub Issues](https://github.com/Krishna737Sharma/agritech-ai-analyzer/issues) page.
 
 ### Community
 
@@ -545,7 +544,7 @@ Please report bugs and issues on our [GitHub Issues](https://github.com/your-use
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/agritech-ai-analyzer&type=Date)](https://star-history.com/#your-username/agritech-ai-analyzer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=your-username/agritech-ai-analyzer&type=Date)](https://star-history.com/#/Krishna737Sharma/AgriTech_AI_Analyzer& 26 june 2025)
 
 ---
 
