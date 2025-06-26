@@ -138,8 +138,8 @@ mkdir -p models
 
 # Download models (replace with actual links)
 # Note: Update these URLs with your actual model hosting links
-wget -O models/crop_classifier.pth "YOUR_MODEL_DOWNLOAD_LINK"
-wget -O models/plant_disease_model.keras "YOUR_MODEL_DOWNLOAD_LINK"
+wget -O models/crop_classifier.pth "LINK"
+wget -O models/plant_disease_model.keras "LINK"
 # ... (download all required models)
 ```
 
