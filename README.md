@@ -22,6 +22,8 @@ The **AgriTech AI Analyzer** is a comprehensive Flask-based web application desi
 ## 📸 Screenshots
 
 ### Web Interface
+https://aibasedagriculturemonitoring-mhb85pvajkhp9tqwma44dp.streamlit.app/
+
 ![Image](https://github.com/user-attachments/assets/3121beee-cc29-4f05-8cdc-a1419ca83a5c)
 *User-friendly interface for image uploads and analysis selection*
 
